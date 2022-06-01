@@ -18,6 +18,10 @@
             body {
                 font-family: 'Nunito', sans-serif;
             }
+
+            h1{
+                color: #f00;
+            }
         </style>
     </head>
     <body class="antialiased">
@@ -45,7 +49,7 @@
                         </g>
                     </svg> -->
 
-                    <h1>Bootcamp</h1>
+                    <h1>Laravel Virtual Bootcamp</h1>
 
 
                 </div>

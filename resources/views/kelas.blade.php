@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hello</title>
+    <title>Kelas Laravel </title>
 </head>
 <body>
-    <h1>Selamat Datang...</h1>
-    <h2>Hello..{{$nama}}..!</h2>
+    <h1>Selamat Datang</h1>
+    <h2>ke Virtual Bootcamp Laravel</h2>
 </body>
-</html> 
+</html>

@@ -19,6 +19,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+Route::get('/kelas', function(){
+    return view('kelas');
+});
+
 Route::get('/hello/{nama?}', [ HelloController::class, 'index' ] );
 
 Route::get('users', [ UserController::class, 'index']);
